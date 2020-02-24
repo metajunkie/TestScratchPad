@@ -25,13 +25,14 @@ struct ContentView: View {
         HStack {
             
 //            DatabaseManagementView()
+            MockButtonView()
             
-            HStack{
-               ForEach(self.myButtons) {myButton in
-                ButtonDisplayView(name: myButton.name!, group: myButton.group!)
-               
-               }
-           }
+//            HStack{
+//               ForEach(self.myButtons) {myButton in
+//                ButtonDisplayView(name: myButton.name!, group: myButton.group!)
+//
+//               }
+//           }
             
         }
         

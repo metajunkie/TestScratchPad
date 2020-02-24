@@ -18,6 +18,7 @@
 		627ACFEA23FCACED002F850B /* ButtonEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627ACFE923FCACED002F850B /* ButtonEditView.swift */; };
 		627ACFEC23FCAD80002F850B /* DatabaseManagementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627ACFEB23FCAD80002F850B /* DatabaseManagementView.swift */; };
 		627ACFEE23FCB023002F850B /* ButtonDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627ACFED23FCB023002F850B /* ButtonDisplayView.swift */; };
+		627ACFF023FCC455002F850B /* MockButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627ACFEF23FCC455002F850B /* MockButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		627ACFE923FCACED002F850B /* ButtonEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonEditView.swift; sourceTree = "<group>"; };
 		627ACFEB23FCAD80002F850B /* DatabaseManagementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManagementView.swift; sourceTree = "<group>"; };
 		627ACFED23FCB023002F850B /* ButtonDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDisplayView.swift; sourceTree = "<group>"; };
+		627ACFEF23FCC455002F850B /* MockButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				627ACFE923FCACED002F850B /* ButtonEditView.swift */,
 				627ACFEB23FCAD80002F850B /* DatabaseManagementView.swift */,
 				627ACFED23FCB023002F850B /* ButtonDisplayView.swift */,
+				627ACFEF23FCC455002F850B /* MockButtonView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				627ACFE723FCA5DF002F850B /* MyButton.swift in Sources */,
 				627ACFD623FCA4B0002F850B /* ContentView.swift in Sources */,
 				627ACFEA23FCACED002F850B /* ButtonEditView.swift in Sources */,
+				627ACFF023FCC455002F850B /* MockButtonView.swift in Sources */,
 				627ACFD123FCA4AF002F850B /* SceneDelegate.swift in Sources */,
 				627ACFEE23FCB023002F850B /* ButtonDisplayView.swift in Sources */,
 			);
